@@ -5,8 +5,8 @@ import cv2
 from ultralytics import YOLO
 
 # ========================== Einstellungen ==========================
-MODEL_PATH = r"P:\PY\AI Training Jupyter\runs\train\yolo11n_custom\weights\best.pt"  # Modellpfad
-IMG_DIR = r"C:\Users\Michel\Pictures\Test2_img_split\Test2_img\test\images"  # Ordner mit Bildern
+MODEL_PATH = r"C:\Users\jonni\OneDrive\Dokumente\GitHub\AI-Training-Jupyter\runs\train\yolo11n_custom\weights\best.pt"  # Modellpfad
+IMG_DIR = r"C:\Users\jonni\OneDrive\Dokumente\GitHub\Chairlift_Gefahrenerkennung\01_Data_Jon\Augmented\Images_split\Images\train\images"  # Ordner mit Bildern
 IMG_EXTENSIONS = (".jpg", ".jpeg", ".png", ".bmp")  # Bildtypen
 
 # ========== Bilder sammeln =========

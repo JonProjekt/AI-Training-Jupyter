@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolo11n.pt
-data: C:\Users\Michel\Pictures\Test2_img_split\Test2_img\dataset.yaml
+data: C:\Users\jonni\OneDrive\Dokumente\GitHub\Chairlift_Gefahrenerkennung\01_Data_Jon\Augmented\Images_split\Images\dataset.yaml
 epochs: 100
 time: null
 patience: 50
